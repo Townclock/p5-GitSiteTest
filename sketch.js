@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(game.width, game.height);
+  createCanvas(200, 200);
   background(0);  
   rectMode(CENTER); // draw rectangles from the center out
 
